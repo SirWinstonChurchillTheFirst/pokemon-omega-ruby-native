@@ -1,0 +1,9 @@
+{
+ "title": "Pokémon Omega Ruby",
+ "title_id": "000400000011C400",
+ "platform": "Nintendo 3DS",
+ "runtime": "https://github.com/ShiromiyaG/Bergamota",
+ "runtime_commit": "21007338e0655b675ab116273e602ff7d37e28e6",
+ "status": "beta",
+ "tested": "New game in German from the language screen through the professor's talk and the name entry, out of the moving truck into Littleroot Town, the mother's talk, into the house; the X menu, the bag, saving, and after a restart Continue from that save; then upstairs, setting the clock, the mother's visit, down again, the TV scene, and out of the door into the town. Not tested: anything after that (no battle, no route), long sessions."
+}

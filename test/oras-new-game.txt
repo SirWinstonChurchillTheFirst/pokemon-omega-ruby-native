@@ -1,0 +1,46 @@
+# Omega Ruby / Alpha Sapphire new game: German, professor, boy, name, then A on
+wait 300
+press down
+press down
+press down
+press a
+wait 200
+press a
+wait 600
+spam a 90 45
+wait 300
+press a
+wait 300
+touch 63 145
+touch 120 180
+touch 80 109
+touch 159 180
+wait 30
+touch 260 109
+wait 120
+spam a 48 45
+wait 200
+stick 1 0 150
+wait 120
+spam a 40 45
+wait 120
+stick 0 1 60
+spam a 30 45
+wait 120
+stick -1 0 40
+wait 40
+stick 0 1 40
+wait 60
+press x
+touch 81 119
+wait 150
+press a
+wait 150
+press a
+wait 400
+press a
+wait 150
+press b
+wait 60
+press b
+wait 120
